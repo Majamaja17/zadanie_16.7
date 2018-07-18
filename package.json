@@ -1,0 +1,24 @@
+{
+  "name": "zadanie_16.7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --env development",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Majamaja17/zadanie_16.7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Majamaja17/zadanie_16.7/issues"
+  },
+  "homepage": "https://github.com/Majamaja17/zadanie_16.7#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^3.1.4"
+  }
+}
