@@ -1,9 +1,9 @@
 import React from 'react';
 import uuid from 'uuid';
 import style from './App.css';
-import Title from '../components/Title';
-import TodoList from '../components/TodoList';
-import TodoForm from '../components/TodoForm';
+import Title from '../components/Title.js';
+import TodoList from './components/TodoList.js';
+import TodoForm from './components/TodoForm.js';
 
 class App extends React.Component {
     constructor(props) {
